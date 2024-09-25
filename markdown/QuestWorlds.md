@@ -446,7 +446,7 @@ Your GM may treat *zero* **degrees** of **victory** as 'victory at a price' and 
 
 There is one **outcome** to a **contest** and it always applies to the PC. Your GM does not consider a separate outcome for the **resistance**, instead they narrate the **outcome** based on whether the your PC obtains the **prize** and describe how the story branches for the **resistance** based on their interpretation of that. Rules on **benefits** and **consequences** in §2.8 and narration considerations such as 'victory at a price', only apply to your PC, not to the resistance.
 
-The only exception to this is a PC vs. PC contest, where each sides **outcome** needs to be determined.
+The only exception to this is a PC vs. PC contest, where each side's **outcome** needs to be determined.
 
 ## 2.4 Modifiers
 
@@ -508,7 +508,7 @@ Abilities that represent special items, weapons, armor, or other noteworthy equi
 
 If you have a good idea for an **augment**, propose it to your GM while the **contest** is being framed. When making your proposal, describe how the **augmenting ability** supports the main one in a way that is both *entertaining* and *memorable*. Don't just hunt for mechanical advantage, show your group more about your PC when you **augment**, their attitudes, passions, or lesser known **abilities**. If you are **augmenting** with a **broad ability** like "Fool's Luck", be prepared to describe the unlikely events that tilt the scales in your favor. Your GM will decide whether the **augment** is justified and can refuse boring and uninspired attempts to **augment**, where you are just looking for a bonus to your roll and not adding to the story.
 
-You may only use one of your own **abilities** to **augment** the **ability** you are using in the **contest**, and you may not use an **ability** to **augment** itself. You may not use a **breakout** to augment it's parent **keyword** (see §2.1.1), or another **breakout** from the parent **keyword**. Another player character may also augment you, however, **augments** from other player characters supporting you, only give you *one* **bonus** to add to your **target number**, regardless of the number of supporters you have.
+You may only use one of your own **abilities** to **augment** the **ability** you are using in the **contest**, and you may not use an **ability** to **augment** itself. You may not use a **breakout** to augment it's parent **keyword** (see §2.1.1), or another **breakout** from the parent **keyword**. Another player character may also augment you, however, **augments** from other player characters supporting you only give you *one* **bonus** to add to your **target number**, regardless of the number of supporters you have.
 
 Your GM should bear in mind the credibility of more than one PC helping you. When persuading someone a cacophony of voices may not help, unless you are trying to intimidate; when fighting someone, only so much backup helps you take your opponent down; when flying a starship into the cave on the asteroid, only some crew activities provide credible help. The GM may thus decide to limit the number of augments from other PCs. Consider a group contest (see §4.2) instead if many PCs want to act against the **resistance**.
 
@@ -1272,7 +1272,7 @@ If the opposition represents multiple opponents, then an **AP** loss may represe
 When your GM narrates **AP** losses they need to be guided by two principals:
 
 1. No effect is certain until the entire **wagered sequence** is over.
-2. When a character loses points, it can reflect any negative change in fortunes, not just the most obvious one
+2. When a character loses points, it can reflect any negative change in fortunes, not just the most obvious one.
 
 ### 5.3.2 Wagered Sequence Outcomes
 
@@ -1317,7 +1317,7 @@ Your GM may decide to impost a **consequence** on you, even if you are later vic
 
 You can transfer some or all of your **advantage points** to another contestant engaged in a **wagered sequence** on your side. With more **advantage points**, they can stay in the **sequence** for longer, or make larger **wagers** without driving themselves to **defeat**.
 
-State the number of **AP** you are trying to transfer. (The GM may suggest a higher or lower **wager** based on the action you describe.) The number of **APs** you are attempting to transfer is the **resistance** you face in a **contest**. You lost the **APs** whether or not you **succeed** in the contest.
+State the number of **AP** you are trying to transfer. (The GM may suggest a higher or lower **wager** based on the action you describe.) The number of **APs** you are attempting to transfer is the **resistance** you face in a **contest**. You lose the **APs** whether or not you **succeed** in the contest.
 
 You cannot transfer **advantage points** to yourself.
 
@@ -1429,7 +1429,7 @@ A mook is a faceless, nameless NPC who exists to allow your PC to impress us wit
 
 #### 5.4.5.2 Named NPCs
 
-A named NPC starts with between *three* **resolve**.
+A named NPC starts with between *three* and *five* points of **resolve**.
 
 Your GM should decide if an NPC has recovered any **resolve** losses between encounters. An NPC who is reduced to *zero* resolve should not re-appear in the story - your PC has overcome them.
 
@@ -2124,7 +2124,7 @@ These are the major changes in this version of the rules
 * Provided clarity that consequences of defeat and benefit of victory are optional and the GM should focus on using the prize to narrate the outcome of a contest, only applying mechanical benefits or penalties if they make sense.
 * Specific Ability Bonuses are dropped. They were hard for the GM to adjudicate and the same intent is better served by using a stretch on a broad ability when contesting against a PC with a more specific ability.
 * Made it clear that only a PC should use a parting shot, not the resistance.
-* Sequences replace all 'long' contest types. Between version 1 and version 2 extended contests switched to scored contests, this approach restores both variants, but changes the name to a sequence generically, factoring out commonality, and to scored and wagerding respectively. Goal is to show contest as the atomic unit within a sequence.
+* Sequences replace all 'long' contest types. Between version 1 and version 2 extended contests switched to scored contests, this approach restores both variants, but changes the name to a sequence generically, factoring out commonality, and to scored and wagered respectively. Goal is to show contest as the atomic unit within a sequence.
 * Dropped edges and handicaps - we use a resistance not stats, so makes no sense to have edges and handicaps
 * Added Mythic Russia's Plot Edits
 * Simplified how multiple opponents are handled.
